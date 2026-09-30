@@ -8,3 +8,15 @@ date = ([45, 50, 55, 60, 65, 70, 75, 75, 80, 80, 80, 80, 85, 85, 85, 85, 85, 85,
 data_length = len(data)
 #question 1
 #part A
+ans_a = statistics.mean(data)
+
+#part B
+
+
+#Part C
+ans_c = statistics.variance(data)
+
+
+#part D
+statistics.stdev(data)
+
